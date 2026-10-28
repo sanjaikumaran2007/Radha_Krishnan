@@ -1,0 +1,6 @@
+[functions.server-time]
+verify_jwt = false
+[functions.verify-passcode]
+verify_jwt = false
+[functions.set-passcode]
+verify_jwt = false
